@@ -1,4 +1,4 @@
-# Bus Ticket
+# Bus Ticket booking system
 
 **Contents:** 1. Introduction  2. Features  3. Technologies 4. Screenshots
  
